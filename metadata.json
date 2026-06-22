@@ -1,0 +1,6 @@
+{
+  "name": "React Minecraft",
+  "description": "A 3D Minecraft clone built in React and Three.js with procedural world generation, block building and breaking, distinct block types, physics, first-person controls, inventory, save/load, and GitHub Pages support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
